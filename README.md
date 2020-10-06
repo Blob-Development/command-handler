@@ -4,15 +4,15 @@ Command Handler Template.<br>
 • Node.js (v12)<br>
 • dotenv (v8.2.0)<br>
 
-## Support us please!
+# Support us please!
 Paypal: r_r_a_a_y_y@yahoo.com / https://paypal.me/ray0001
 
-## FAQ
+# FAQ
 
-### Create an Issues.
+### I have an issues with this template.
 Please create an [issues](https://github.com/Blob-Development/command-handler/issues) if you are having an issues with the template.
 
-### Discord Server;
+### What is your Discord Server?
 https://discord.blob-project.com
 
 ### How to install discord.js or other packages?
