@@ -28,5 +28,5 @@ Yes.
 ### Can I host this on Glitch?
 Yeah sure.
 
-## Contributions
+# Contributions
 Any contributions will be appreciated.
