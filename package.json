@@ -1,5 +1,5 @@
 {
-  "name": "tutorial-bot",
+  "name": "template-bot",
   "version": "1.0.0",
   "description": "A Discord Bot template from Blob Development.",
   "main": "server.js",
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "discord.js": "^12.2.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "quick.db": "^7.1.2"
   },
   "engines": {
     "node": "12.x"
