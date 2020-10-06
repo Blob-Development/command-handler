@@ -28,5 +28,14 @@ Yes.
 ### Can I host this on Glitch?
 Yeah sure.
 
+### Can you recommend me a good VPS?
+Yeah. **Contabo, OVH, DigitalOcean, Vultr, AscendHost**.
+
+### How do I install the node.js?
+https://nodejs.org/
+
+### quick.db, doesn't working.
+Watch this. https://www.youtube.com/watch?v=-U2-rRxhpx8
+
 # Contributions
 Any contributions will be appreciated.
