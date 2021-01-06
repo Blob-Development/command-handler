@@ -5,7 +5,7 @@ Command Handler Template.<br>
 • dotenv (v8.2.0)<br>
 
 # Support us please!
-Paypal: r_r_a_a_y_y@yahoo.com / https://paypal.me/ray0001
+Paypal: paypal@blob-project.com / https://paypal.me/ray0001
 
 # FAQ
 
@@ -13,7 +13,7 @@ Paypal: r_r_a_a_y_y@yahoo.com / https://paypal.me/ray0001
 Please create an [issues](https://github.com/Blob-Development/command-handler/issues) if you are having an issues with the template.
 
 ### What is your Discord Server?
-https://discord.blob-project.com
+https://blob-project.com/discord
 
 ### How to install discord.js or other packages?
 • `npm install discord.js`<br>
