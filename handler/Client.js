@@ -8,7 +8,7 @@ module.exports = class TutorialBot extends Client {
     this.cooldowns = new Collection(); // This will store your commands with cooldowns.
     this.aliases = new Collection(); // This will store your alternative commands. Example: /server -> /serverinfo, /guild, /guildinfo
     this.config = require('../config.json');
-    this.package = require("./package.json");
+    this.package = require("../package.json");
     this.recent = new Set();
   }
 }
