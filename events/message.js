@@ -8,7 +8,7 @@ module.exports = async (client, message) => {
   // Remove this if you want the bot are be able to execute a command inside DMs.
   if (message.channel.type === "dm") return;
   
-  let prefix = client.config.prefix;
+  let prefix = client.config.prefix; // Your prefix on config.json
   
   // If the user doesn't doing any to the bot, return it.
   if (!message.content.startsWith(prefix)) return;
@@ -18,7 +18,6 @@ module.exports = async (client, message) => {
   let cmd = args.shift().toLowerCase();
   let sender = message.author;
   
-  // Many people don't know what is message.flags.
   // We've already seen a bot who has a message.flags or they would called, parameter things.
   message.flags = []
   while (args[0] && args[0][0] === "-") {
