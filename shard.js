@@ -4,7 +4,7 @@ const {ShardingManager} = require("discord.js");
 require('dotenv').config();
 
 const shards = new ShardingManager("./server.js", {
-  token: process.env.TOKEN,
+  token: process.env.SECRET,
   totalShards: "auto",
   respawn: true,
 	execArgv: ['--trace-warnings'],
