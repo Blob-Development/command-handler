@@ -7,7 +7,7 @@ const shards = new ShardingManager("./server.js", {
   token: process.env.TOKEN,
   totalShards: "auto",
   respawn: true,
-  execArgv: ['--trace-warnings'],
+	execArgv: ['--trace-warnings'],
 	shardArgs: ['--ansi', '--color']
 });
 
